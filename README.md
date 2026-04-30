@@ -1,66 +1,99 @@
-# TinkBoard: Premium Note-Taking Application
+# <h1 align="center">Hi 👋, I'm Venkat Shardul</h1>
 
-TinkBoard is a beautiful, thoroughly modern note-taking application built with the MERN stack. Designed with a focus on premium aesthetics, clean typography, and a seamless user experience.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Engineer;Machine+Learning+Enthusiast;Building+Real+World+Projects🚀&center=true&width=500&height=45">
+</p>
 
-![TinkBoard Application](https://via.placeholder.com/800x450?text=TinkBoard+Preview)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-## ✨ Features
-- **Sleek, Modern UI**: Dark theme by default, featuring glassmorphic navigation, animated gradients, and soft shadows.
-- **Create & Edit Notes**: Enjoy a distraction-free, beautifully large-typography writing experience.
-- **Note Organization**: Easily tag notes with categories and mark them as Important.
-- **Responsive Design**: Flawless experience on desktops, tablets, and mobile devices.
-- **Reading Estimates**: Automatically calculates estimated reading time based on content length.
+---
 
-## 🛠️ Technology Stack
-### Frontend
-- **React.js** (Vite)
-- **Tailwind CSS v4** & **DaisyUI** for styling and theming
-- **React Router v7** for seamless navigation
-- **Lucide React** for crisp, scalable icons
-- **Axios** for API communication
+## 🚀 About Me
 
-### Backend
-- **Node.js** & **Express**
-- **MongoDB** (assumed, typical for this stack via Mongoose)
+* 🎓 B.Tech CSE Student (2023–2027)
+* 💻 MERN Stack Developer
+* 🤖 Machine Learning Enthusiast
+* 🎯 Goal: Web Developer Internship
+* ⚡ Focus: DSA + Real-world Projects
 
-## 🚀 Getting Started
+---
 
-### Prerequisites
-Make sure you have Node.js and npm installed on your machine. You will also need MongoDB running locally or a connection string to a cloud instance (like MongoDB Atlas).
+## 🛠️ Tech Stack
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd notestaking
-```
+<p align="center">
 
-### 2. Set up the Backend
-```bash
-cd backend
-npm install
-```
-*Note: Ensure you set up a `.env` file in the backend directory with your MongoDB connection string (`MONGO_URI`) and `PORT`.*
-```bash
-# To start the backend server
-node index.js
-```
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,cpp" />
 
-### 3. Set up the Frontend
-Open a new terminal window:
-```bash
-cd frontend/notestake
-npm install
-```
-```bash
-# To start the frontend development server
-npm run dev
-```
+</p>
 
-### 4. Open the App
-Visit `http://localhost:5173` (or the port Vite provides) in your browser to start capturing your brilliant ideas!
+---
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+## 🚀 Featured Projects
 
-## 📝 License
-This project is open source and available under the [MIT License](LICENSE).
+### 📝 TinkBoard – Premium Notes App
+
+✨ Modern MERN app with clean UI
+🔥 Features: Tags, Important Notes, Reading Time
+🔗 https://github.com/YOUR_USERNAME/tinkboard
+
+---
+
+### 📊 CIFAR CNN Model
+
+🤖 Image classification using CNN
+📈 Deep learning fundamentals implemented
+
+---
+
+### 💹 Zerodha Clone
+
+📊 Full-stack trading UI clone
+🎯 Focus on frontend + API integration
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+* Advanced React & Performance Optimization
+* Backend Scaling & APIs
+* Data Structures & Algorithms
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/venkat-shardul-68687a275/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:venkatshardul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ⚡ Fun Fact
+
+I build, break, and rebuild until it works perfectly 🚀
